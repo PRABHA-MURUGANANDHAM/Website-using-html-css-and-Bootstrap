@@ -51,7 +51,7 @@ Replace images in the /images folder with your own.
 📸 Preview
 ![Website Screenshot](aboutres.png)
 ![Website Screenshot](aboutss.png)
-![Website Screenshot](responsive.png)
+![Website Screenshot](Responsive.png)
 🙌 Author
 Made with ❤️ by Prabha M
 
