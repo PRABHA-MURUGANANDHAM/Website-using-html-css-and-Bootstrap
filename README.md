@@ -49,9 +49,9 @@ Use Bootstrap components to add more sections like navbars, cards, or forms.
 Replace images in the /images folder with your own.
 
 📸 Preview
-![Website Screenshot](aboutres.jpeg)
-![Website Screenshot](aboutss.jpeg)
-![Website Screenshot](responsive.jpeg)
+![Website Screenshot](aboutres.png)
+![Website Screenshot](aboutss.png)
+![Website Screenshot](responsive.png)
 🙌 Author
 Made with ❤️ by Prabha M
 
